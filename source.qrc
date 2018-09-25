@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/doc">
+        <file>Document/help.docx</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>Image/back.png</file>
+        <file>Image/camera.png</file>
+        <file>Image/Camera_FPS.png</file>
+        <file>Image/Camera_Quaternion.png</file>
+        <file>Image/checker.png</file>
+        <file>Image/close.png</file>
+        <file>Image/down_arrow.png</file>
+        <file>Image/forward.png</file>
+        <file>Image/help.png</file>
+        <file>Image/icon.png</file>
+        <file>Image/information.png</file>
+        <file>Image/left_arrow.png</file>
+        <file>Image/Middle.png</file>
+        <file>Image/move.png</file>
+        <file>Image/new.png</file>
+        <file>Image/open.png</file>
+        <file>Image/print.png</file>
+        <file>Image/right_arrow.png</file>
+        <file>Image/Rotate_view_tool.png</file>
+        <file>Image/up_arrow.png</file>
+        <file>Image/Zoom_in.png</file>
+        <file>Image/Zoom_out.png</file>
+        <file>Image/about.png</file>
+        <file>Image/exit.png</file>
+        <file>Image/division.png</file>
+        <file>Image/newTab.ico</file>
+        <file>Image/qidong.png</file>
+        <file>Image/settings.png</file>
+        <file>Image/unit.png</file>
+        <file>Image/correct.png</file>
+        <file>Image/Dialog_information.png</file>
+        <file>Image/Dialog_setting.png</file>
+        <file>Image/Dialog_content.png</file>
+        <file>Image/Grid_48px.png</file>
+        <file>Image/finite.png</file>
+        <file>Image/start.png</file>
+        <file>Image/Export_64px.png</file>
+    </qresource>
+</RCC>
